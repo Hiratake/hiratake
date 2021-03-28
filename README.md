@@ -12,4 +12,4 @@ I don't understand English 😭 , sorry...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiratake&layout=compact&title_color=24292e)](https://github.com/anuraghazra/github-readme-stats)
 
-[Twitter](https://twitter.com/Hirotaisou2012)・[Discord](https://discordapp.com/users/221498004505362433)・[Website](https://hiratake.xyz/)
+[Twitter](https://twitter.com/Hirotaisou2012)・[Discord](https://discord.com/users/221498004505362433)・[Website](https://hiratake.xyz/)
