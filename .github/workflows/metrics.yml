@@ -22,7 +22,7 @@ jobs:
           config_timezone: Asia/Tokyo
           repositories_affiliations: owner, collaborator
           plugin_languages: yes
-          plugin_languages_ignored: vim
+          plugin_languages_ignored: vim script
           plugin_languages_colors: github
           plugin_languages_details: percentage
           plugin_languages_limit: 8
